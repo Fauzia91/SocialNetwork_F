@@ -11,15 +11,10 @@ https://drive.google.com/file/d/1Dfw1Oq_GW65b1-sy-Ph780wYVtRqyISB/view
 ### Table of Contents
 ***
 
-[Deployed](#deployed)
 [Contributing](#contributing)
 [License](#license)
 [Github](#github)
 [Contact](#contact) 
-
-### Deployed
-
-Go to 
 
 ### Contributing
 
@@ -51,7 +46,7 @@ SOFTWARE.
 
 ### Github
 
-
+https://github.com/Fauzia91/SocialNetwork_F
 
 ### Contact
 
